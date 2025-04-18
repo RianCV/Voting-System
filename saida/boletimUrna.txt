@@ -1,0 +1,217 @@
+-----------------BOLETIM DA URNA 1----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 3 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 3 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 2 votos
+ Candidato Paula Araújo (Numero 17) recebeu 2 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 2 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 1 votos
+ Candidato Igor Moreira (Numero 13) recebeu 5 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 2 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 5 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 2 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 3 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 1 votos
+ Candidato José Lima (Numero 13200) recebeu 2 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 3 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 4 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 4 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 1 votos
+ Candidato Henrique Matos (Numero 454) recebeu 1 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 2----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 3 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 5 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 1 votos
+ Candidato Paula Araújo (Numero 17) recebeu 1 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 1 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 2 votos
+ Candidato Igor Moreira (Numero 13) recebeu 4 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 2 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 3 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 1 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 2 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 4 votos
+ Candidato José Lima (Numero 13200) recebeu 1 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 2 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 3 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 2 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 3 votos
+ Candidato Henrique Matos (Numero 454) recebeu 3 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 3----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 0 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 0 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 7 votos
+ Candidato Paula Araújo (Numero 17) recebeu 2 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 4 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 2 votos
+ Candidato Igor Moreira (Numero 13) recebeu 1 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 2 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 1 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 4 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 2 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 2 votos
+ Candidato José Lima (Numero 13200) recebeu 4 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 2 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 1 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 2 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 4 votos
+ Candidato Henrique Matos (Numero 454) recebeu 4 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 4----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 6 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 6 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 4 votos
+ Candidato Paula Araújo (Numero 17) recebeu 4 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 5 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 5 votos
+ Candidato Igor Moreira (Numero 13) recebeu 5 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 4 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 6 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 4 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 5 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 5 votos
+ Candidato José Lima (Numero 13200) recebeu 4 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 5 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 6 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 6 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 4 votos
+ Candidato Henrique Matos (Numero 454) recebeu 4 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 5----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 8 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 7 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 3 votos
+ Candidato Paula Araújo (Numero 17) recebeu 3 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 3 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 5 votos
+ Candidato Igor Moreira (Numero 13) recebeu 7 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 5 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 6 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 5 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 5 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 5 votos
+ Candidato José Lima (Numero 13200) recebeu 5 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 5 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 8 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 6 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 3 votos
+ Candidato Henrique Matos (Numero 454) recebeu 3 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 6----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 6 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 2 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 9 votos
+ Candidato Paula Araújo (Numero 17) recebeu 4 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 7 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 1 votos
+ Candidato Igor Moreira (Numero 13) recebeu 5 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 7 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 4 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 6 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 5 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 6 votos
+ Candidato José Lima (Numero 13200) recebeu 6 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 4 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 5 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 5 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 6 votos
+ Candidato Henrique Matos (Numero 454) recebeu 6 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+
+-----------------BOLETIM DA URNA 7----------------
+
+Governador: 
+ Candidato Roberto Martins (Numero 22) recebeu 3 votos
+ Candidato Elisa Nunes (Numero 13) recebeu 0 votos
+ Candidato Eduardo Castro (Numero 40) recebeu 2 votos
+ Candidato Paula Araújo (Numero 17) recebeu 2 votos
+Presidente: 
+ Candidato Felipe Barbosa (Numero 45) recebeu 3 votos
+ Candidato Laura Fernandes (Numero 22) recebeu 0 votos
+ Candidato Igor Moreira (Numero 13) recebeu 1 votos
+ Candidato Vanessa Cardoso (Numero 40) recebeu 3 votos
+DepFederal: 
+ Candidato Pedro Santos (Numero 2210) recebeu 2 votos
+ Candidato Carla Pereira (Numero 1310) recebeu 1 votos
+ Candidato Fernanda Costa (Numero 4010) recebeu 2 votos
+ Candidato Gabriel Tavares (Numero 4511) recebeu 0 votos
+ Candidato André Medeiros (Numero 1311) recebeu 0 votos
+ Candidato Luiz Oliveira (Numero 1711) recebeu 0 votos
+DepEstadual: 
+ Candidato Maria Souza (Numero 45200) recebeu 2 votos
+ Candidato José Lima (Numero 13200) recebeu 1 votos
+ Candidato Lucas Almeida (Numero 40200) recebeu 2 votos
+ Candidato Marina Duarte (Numero 40201) recebeu 0 votos
+Senador: 
+ Candidato Beatriz Fernandes (Numero 171) recebeu 1 votos
+ Candidato Rafael Gomes (Numero 453) recebeu 4 votos
+ Candidato Juliana Carvalho (Numero 454) recebeu 1 votos
+ Candidato Henrique Matos (Numero 454) recebeu 1 votos
+ Candidato Tatiana Ribeiro (Numero 224) recebeu 0 votos
+

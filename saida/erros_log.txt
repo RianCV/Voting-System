@@ -1,0 +1,4 @@
+Numero do candidato incompativel: João Silva tem numero com 8 digitos, mas DepFederal recebe 4 
+Ana Oliveira tem tamanho de cpf diferente de 11! 
+Camila Brito tem tamanho de cpf diferente de 11! 
+Numero do candidato incompativel: Rodrigo Freitas tem numero com 3 digitos, mas Governador recebe 2 
