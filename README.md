@@ -1,4 +1,7 @@
-# 🗳️ Election System Using TXT Files
+# 🗳️ Election System Using Python
+
+Final project for the Data-Oriented Programming course at PUCRS, involving the development of a voting system in Python.
+Received the highest grade in the class.
 
 ## 📘 User Guide – Election Program
 
